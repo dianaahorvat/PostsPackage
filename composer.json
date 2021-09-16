@@ -1,0 +1,14 @@
+{
+    "name": "dianaahorvat/posts",
+    "description": "Posts App",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dianaahorvat",
+            "email": "horvat.diana2000@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
